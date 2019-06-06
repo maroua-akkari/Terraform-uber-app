@@ -14,7 +14,7 @@ To run this script, type in terminal:
 `terraform apply`
 
 In AWS: 
-Connect the pubic instance
+Connect the public instance
 
 In terminal:
 1. Change the permissions using chomd
