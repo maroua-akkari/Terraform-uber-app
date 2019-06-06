@@ -21,6 +21,7 @@ In terminal:
 2. SSH into the Ubuntu VM 
 
 Connect to the instance made using its public DNS, in a web browser go to:
+
 ec2-34-242-186-67.eu-west-1.compute.amazonaws.com
 
 
